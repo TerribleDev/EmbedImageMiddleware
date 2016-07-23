@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CD7FBF48-5725-4DA0-B342-1C3319DD3B0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1274855C-50AC-4725-B5AA-657604AD462A}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "EmbedImagesMiddlewear", "src\EmbedImagesMiddlewear\EmbedImagesMiddlewear.xproj", "{961D39B1-890E-4210-803B-A6D269BC81BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{961D39B1-890E-4210-803B-A6D269BC81BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961D39B1-890E-4210-803B-A6D269BC81BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961D39B1-890E-4210-803B-A6D269BC81BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961D39B1-890E-4210-803B-A6D269BC81BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{961D39B1-890E-4210-803B-A6D269BC81BA} = {CD7FBF48-5725-4DA0-B342-1C3319DD3B0A}
+	EndGlobalSection
+EndGlobal
