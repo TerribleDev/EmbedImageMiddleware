@@ -1,4 +1,4 @@
-This is a simple aspnet middlewear that converts your small images to base64 encoded data tags in html.
+This is a simple aspnet middlewear inspired by a [rack middlewear](https://github.com/minad/rack-embed), that converts your small images to base64 encoded data tags in html.
 
 I wouldn't actually recommend doing this, I mostly did this to see what is possible in aspnet core middlwear. There is much [evidence](http://davidbcalhoun.com/2011/when-to-base64-encode-images-and-when-not-to/) to suggest that it is a bad idea
 
